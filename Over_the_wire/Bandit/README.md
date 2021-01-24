@@ -2,7 +2,9 @@
 #### This is going to be my solution and brief explaination of how I did I played Bandit Wargame on OverTheWire. Here is the [link](https://overthewire.org/wargames/bandit/) to this wargame. There are also other wargames in OverTheWire, don't forget to check it out.
 
 1. **Level 0:**
-
+- Use command: ssh bandit0@bandit.labs.overthewire.org –p 2220
+- Explaination: to open a SSH connection to a remote server, you must specify address, then other options (read in manual doc), in this case, the port we want to connect to, which is 2220.
+- From now on, to connect to next level’s machines, use the same command, the only difference is just the user name, which is “bandit” + (the level). For example, “bandit0”, “bandit1”.
 2. **Level 0 -> 1:**
 3. **Level 1 -> 2:**
 4. **Level 2 -> 3:**
