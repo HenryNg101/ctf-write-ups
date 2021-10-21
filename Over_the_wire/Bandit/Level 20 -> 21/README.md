@@ -21,7 +21,7 @@ On client side:
     nc localhost 1234
 
 So, when I send a message on client to server, it receives the exact same thing that it sent, and same thing also happens with server when send back to client. So
-it's clear now. I open my connection with bandit, I split my terminal into 2 panes with tmux (Just for convienience, and also easier to observe) with Ctrl-b + " to
+it's clear now. I open my connection with bandit, I split my terminal into 2 panes with tmux (Just for convienience, and also easier to observe, you can learn how to use it [here](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)) with Ctrl-b + " to
 split, Ctrl + ; to move between panes. And I got the password after I send from my listener.
 
 ![Sol](https://github.com/HenryNg101/ctf-write-ups/blob/main/Over_the_wire/Bandit/Level%2020%20-%3E%2021/Images/1.png)
