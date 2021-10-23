@@ -36,6 +36,6 @@ but this is what I got when try to print out the password:
 
 ![Sol](https://github.com/HenryNg101/ctf-write-ups/blob/main/Over_the_wire/Bandit/Level%2025%20-%3E%2026/Images/5.png)
 
-I go and check the reference again, and about external command, I can also pop a shell, with **shell** command. So I just need to pop the shell and I got the password
+I go and check the reference again, and about external command, I can also pop a shell, with **shell** command. So I just need to pop the shell and I got the password (Well it's not so necessary, cuz if I login from outside, I still have to go through the same thing, so, just continue from here is fine).
 
 ![Sol](https://github.com/HenryNg101/ctf-write-ups/blob/main/Over_the_wire/Bandit/Level%2025%20-%3E%2026/Images/6.png)
