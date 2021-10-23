@@ -5,7 +5,7 @@
 
 Hmm, interesting. So now I'm working with version control again, which is git. Version control systems are used to track projects, especially when you working as
 a team. Github is a big website to store all of those projects on the entire Internet (And also where I'm writing my walkthrough on). So, to clone (or download) a 
-project, in case you want to look at other's source code, you just need to use **git clone**. Log in, and I see that there's a README file. README file is also a file
+project, in case you want to look at other's source code, you just need to use **git clone**. Log in, go to destination that I set before, and I see that there's a README file. README file is also a file
 that is used in coding projects as a short document for the project (Read more [here](https://en.wikipedia.org/wiki/README)). Print it out, you got the password 
 for next level.
 
