@@ -26,4 +26,6 @@ be accepted by server).
 
 ![Sol](https://github.com/HenryNg101/ctf-write-ups/blob/main/Over_the_wire/Bandit/Level%2016%20-%3E%2017/Images/4.png)
 
-Note: For access restriction and permission, I already mentioned it in level 5 -> 6.
+Note: 
+* For access restriction and permission, I already mentioned it in level 5 -> 6.
+* Actually, after I checked about echo server in nmap, it said that those servers are servers that receive and send back the data ([link](https://nmap.org/book/nping-man-echo-mode.html)). Knowing that could have saved me a bit of time.
